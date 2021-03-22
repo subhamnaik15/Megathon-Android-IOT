@@ -1,0 +1,1 @@
+/Users/subnaik/Desktop/Megathon/Magethon-GenX-development/buildSrc/build/classes/kotlin/main/AppDeps.class:/Users/subnaik/Desktop/Megathon/Magethon-GenX-development/buildSrc/build/classes/kotlin/main/Versions.class
